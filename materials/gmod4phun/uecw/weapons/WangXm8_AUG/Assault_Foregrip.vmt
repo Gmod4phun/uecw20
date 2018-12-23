@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	"$basetexture"	"gmod4phun\uecw\weapons\WangXm8_AUG\Assault_Foregrip"
+	"$bumpmap"			"gmod4phun\uecw\weapons\WangXm8_AUG\fore_assault_normal"
+	"$phong" 		"1"
+	"$phongexponent" 	"40"
+	"$phongboost" "0.75"
+	"$phongfresnelranges" "[1 3 6]"
+}

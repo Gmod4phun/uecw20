@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"gmod4phun/uecw/attachments/csgo_sil_pistol_d"
+	"$bumpmap" 		"gmod4phun/uecw/attachments/csgo_sil_pistol_n"
+
+	"$phong" "1"
+	"$phongboost" "1.25"
+	"$phongexponent" "2.8"
+	"$phongfresnelranges" "[ 0.6 0.7 1.25 ]"
+	"$phongalbedotint" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "25"
+	"$rimlightboost" "0.15"
+}

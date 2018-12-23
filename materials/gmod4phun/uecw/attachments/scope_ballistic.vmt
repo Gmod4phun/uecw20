@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "gmod4phun/uecw/attachments/scope_ballistic_d"
+	"$bumpmap" 	"gmod4phun/uecw/attachments/scope_ballistic_n"
+	"$halflambert" 	"1"
+ 	"$phong" "1"
+	"$phongexponent" "32"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[1 6 12]"
+	"$phongalbedotint" "1"
+}

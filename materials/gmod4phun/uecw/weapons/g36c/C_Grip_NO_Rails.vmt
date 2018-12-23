@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"gmod4phun\uecw\weapons\g36c\C_Grip_NO_Rails"
+	"$bumpmap" 	"gmod4phun\uecw\weapons\g36c\C_grip_Normal"
+ 	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+}

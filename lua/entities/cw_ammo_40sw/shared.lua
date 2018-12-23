@@ -1,3 +1,5 @@
+if !CustomizableWeaponry then return end
+
 ENT.Type = "anim"
 ENT.Base = "cw_ammo_ent_base"
 ENT.PrintName = ".40 Smith & Wesson Ammo"

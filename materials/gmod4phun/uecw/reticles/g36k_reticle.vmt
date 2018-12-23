@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gmod4phun/uecw/reticles/g36k_reticle"
+	"$translucent" 1
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

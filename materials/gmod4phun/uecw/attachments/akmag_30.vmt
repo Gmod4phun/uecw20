@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "gmod4phun/uecw/attachments/akmag_30_d"
+	"$bumpmap" 	"gmod4phun/uecw/attachments/akmag_30_n"
+ 	//"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$halflambert" 	"1"
+ 	"$phong" "1"
+	"$phongexponent" "32"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[1 6 12]"
+	"$phongalbedotint" "1"
+}
+

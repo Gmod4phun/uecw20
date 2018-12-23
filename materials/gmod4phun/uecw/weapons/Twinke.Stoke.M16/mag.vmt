@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"gmod4phun\uecw\weapons\Twinke.Stoke.M16\mag"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "gmod4phun\uecw\weapons\Twinke.Stoke.M16\mag_ref"
+}

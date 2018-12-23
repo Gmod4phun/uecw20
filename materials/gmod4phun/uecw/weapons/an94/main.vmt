@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "gmod4phun\uecw\weapons\an94\main"
+	"$bumpmap" "gmod4phun\uecw\weapons\an94\main_n"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[.025 .025 .025]"
+	"$envmapcontrast" .7
+	"$phong" 1
+	"$phongboost" 6
+	"$phongfresnelranges" "[.2 1 0]"
+}

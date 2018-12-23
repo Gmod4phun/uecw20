@@ -1,0 +1,10 @@
+CustomizableWeaponry:addFireSound("UECW_XM8_FIRE", "gmod4phun/uecw/xm8/fire.wav", 1, 100, CHAN_STATIC)
+CustomizableWeaponry:addFireSound("UECW_XM8_FIRE_SUPPRESSED", "gmod4phun/uecw/silenced3.wav", 1, 75, CHAN_STATIC)
+
+CustomizableWeaponry:addReloadSound("UECW_XM8_FOLEY", "gmod4phun/uecw/scarh/scarh_foley.wav")
+CustomizableWeaponry:addReloadSound("UECW_XM8_MAGOUT", "gmod4phun/uecw/scarh/scarh_magout.wav")
+CustomizableWeaponry:addReloadSound("UECW_XM8_MAGIN", "gmod4phun/uecw/scarh/scarh_magin.wav")
+CustomizableWeaponry:addReloadSound("UECW_XM8_MAGTAP", "gmod4phun/uecw/scarh/scarh_magtap.wav")
+CustomizableWeaponry:addReloadSound("UECW_XM8_BOLT", "gmod4phun/uecw/xm8/Boltpull.wav")
+CustomizableWeaponry:addReloadSound("UECW_XM8_CLOTH", "gmod4phun/uecw/xm8/Cloth.wav")
+CustomizableWeaponry:addReloadSound("UECW_XM8_SAFETY", "gmod4phun/uecw/xm8/safety.wav")

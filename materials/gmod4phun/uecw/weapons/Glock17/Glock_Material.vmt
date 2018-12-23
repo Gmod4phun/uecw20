@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	"$baseTexture" "gmod4phun\uecw\weapons\Glock17\Glock_D"
+	"$bumpmap" "gmod4phun\uecw\weapons\Glock17\Glock_N"
+	"$normalmapalphaphongmask" "1"
+	"$halflambert" 	"1"
+ 	"$phong" "1"
+	"$phongtint"	"[1 1 0.8]"
+	"$phongexponenttexture" "gmod4phun\uecw\weapons\Glock17\Glock_Phong"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[1 6 12]"
+	"$phongalbedotint" "1"
+}

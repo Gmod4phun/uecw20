@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "gmod4phun\uecw\weapons\Masada\body"
+	"$bumpmap"	"gmod4phun\uecw\weapons\masada\body_normal"
+	"$nocull"	"1"
+
+	"$normalmapalphaenvmapmask"     "1"
+	"$phong"             "1"
+	"$phongtint"             "[1 1 0.8]"
+	"$phongexponenttexture"         "gmod4phun\uecw\weapons\masada\body_exp"
+	"$phongboost"             "1"
+	"$phongfresnelranges"        "[0.5 1.5 3.0]"
+	"$halflambert"            "1"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "12" 
+	"$rimlightboost"          ".2"
+}

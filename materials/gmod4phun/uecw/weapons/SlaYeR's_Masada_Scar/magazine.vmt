@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"gmod4phun\uecw\weapons\SlaYeR's_Masada_Scar\magazine_diffuse"
+	"$bumpmap"     "gmod4phun\uecw\weapons\SlaYeR's_Masada_Scar\Norm"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" 		"1"
+	"$phongexponent" 	"10"
+	"$phongboost" "0.75"
+	"$phongfresnelranges" "[1 3 6]"
+}
+

@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models\weapons\v_models\SlaYeR's_Masada_Scar\LaRue"
-	"$nocull" "1"
-	"$no_draw"	"1"
-}

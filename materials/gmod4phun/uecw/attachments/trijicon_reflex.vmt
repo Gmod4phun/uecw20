@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"gmod4phun/uecw/attachments/trijicon_reflex_d"
+	"$bumpmap"				"gmod4phun/uecw/attachments/trijicon_reflex_n"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost"	"0.3"
+	"$phongfresnelranges"	"[1 1 1]"
+	"$envmaptint" "[0.05 0.05 0.05]"
+}

@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "gmod4phun\uecw\weapons\WangXm8_AUG\Main_Receiver"
+	"$bumpmap" "gmod4phun\uecw\weapons\WangXm8_AUG\rec_normal"
+	"$phong" 		"1"
+	"$phongexponent" 	"40"
+	"$phongboost" "0.75"
+	"$phongfresnelranges" "[1 3 6]"
+}

@@ -1,0 +1,10 @@
+CustomizableWeaponry:addFireSound("UECW_FIVESEVEN_FIRE", "gmod4phun/uecw/fiveseven/fiveseven-1.wav", 1, 100, CHAN_STATIC)
+CustomizableWeaponry:addFireSound("UECW_FIVESEVEN_FIRE_SUPPRESSED", "gmod4phun/uecw/silenced2.wav", 1, 75, CHAN_STATIC)
+
+CustomizableWeaponry:addReloadSound("UECW_FIVESEVEN_MAGOUT", "gmod4phun/uecw/fiveseven/magout.wav")
+CustomizableWeaponry:addReloadSound("UECW_FIVESEVEN_MAGIN", "gmod4phun/uecw/fiveseven/magin.wav")
+CustomizableWeaponry:addReloadSound("UECW_FIVESEVEN_SLIDEBACK", "gmod4phun/uecw/fiveseven/SlideBack.wav")
+CustomizableWeaponry:addReloadSound("UECW_FIVESEVEN_SLIDERELEASE", "gmod4phun/uecw/fiveseven/sliderelease.wav")
+CustomizableWeaponry:addReloadSound("UECW_FIVESEVEN_MAGPOUCH", "gmod4phun/uecw/fiveseven/magpouch.wav")
+CustomizableWeaponry:addReloadSound("UECW_FIVESEVEN_MAGTAP", "gmod4phun/uecw/fiveseven/magtap.wav")
+CustomizableWeaponry:addReloadSound("UECW_FIVESEVEN_SAFETY", "gmod4phun/uecw/fiveseven/safety.wav")

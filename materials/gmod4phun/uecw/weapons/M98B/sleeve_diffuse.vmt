@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"gmod4phun\uecw\weapons\hands\sleeve_diffuse"
+	"$bumpmap" "gmod4phun\uecw\weapons\hands\sleeve_normal"
+	"$normalmapalphaenvmapmask" "1"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "gmod4phun\uecw\weapons\g36a1\handle"
+	
+	"$envmapmask" "gmod4phun\uecw\weapons\g36a1\handle_ref"
+}

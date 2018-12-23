@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "gmod4phun\uecw\weapons\Requests Studio\Battlefield 3\UMP45 D"
+	"$bumpmap" "gmod4phun\uecw\weapons\Requests Studio\Battlefield 3\UMP45 N"
+	"$normalmapalphaenvmapmask"	"1"
+	"$nocull" "1"
+
+	"$phong" "1"
+	"$phongboost" "3.8"
+	"$phongexponent"	"35"
+	"$phongfresnelranges" "[.85 3 10.5]"
+	"$phongtint"	"[.8 .8 .75]"
+
+	"$envmap"	"env_cubemap"
+	"$envmaptint"	"[.01 .01 .01]"
+
+}

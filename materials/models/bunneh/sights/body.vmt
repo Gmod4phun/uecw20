@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "models\bunneh\sights\body"
-	$selfillum 1
-	$selfillummask "models\bunneh\sights\body_selfillum"
-}

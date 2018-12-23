@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$baseTexture" "gmod4phun\uecw\weapons\Glock17\int"
+	"$bumpmap" "gmod4phun\uecw\weapons\Glock17\int_normal"
+	"$normalmapalphaphongmask" "1"
+}

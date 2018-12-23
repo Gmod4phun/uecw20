@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "gmod4phun\uecw\weapons\M4t_AWP\body"
+	"$bumpmap" "gmod4phun\uecw\weapons\M4t_AWP\bodynormphong"
+	 "$phong" "1"
+	"$phongboost" "0.2"
+	"$phongfresnelranges" "[1 1 1]"
+	"$phongexponent" "5"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+}

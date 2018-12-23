@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "gmod4phun/emag/upgr_emag"
-	"$nolod" 1
-	"$vertexalpha" 1
-	"$vertexcolor" 1
-}

@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "gmod4phun\uecw\weapons\sightdot_colorable"
+	"$phong" "1"
+	"$phongboost" ".25"
+	"$phongfresnelranges" "[1 8 6]"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+	"$selfillum" "1"
+}

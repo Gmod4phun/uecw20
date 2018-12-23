@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+"$basetexture" 	"gmod4phun/uecw/attachments/csgo_optic_acog_killflash"
+"$bumpmap" "gmod4phun/uecw/attachments/attachnormals"
+"$halflambert" 1
+"$translucent" 1
+"$nocull" 1
+}

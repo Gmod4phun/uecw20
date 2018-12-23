@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "gmod4phun/uecw/attachments/glass"
+	//"$selfillum" "0"
+	"$translucent" "1"
+	"$color2" "[.4 .4 .4]"
+}
+
+

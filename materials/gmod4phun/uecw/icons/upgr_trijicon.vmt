@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gmod4phun/uecw/icons/upgr_trijicon"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

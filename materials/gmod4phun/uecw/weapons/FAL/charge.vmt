@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "gmod4phun\uecw\weapons\FAL\bolthandle-slr"
+	"$bumpmap" "gmod4phun\uecw\weapons\FAL\bolthandle-slr_n"
+	"$nocull"	"1"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" 		"1"
+	"$phongexponent" 	"466"
+	"$phongboost"   "2.2"
+	"$phongfresnelranges"   "[1 8 4]"
+                "$phongtint"                   "[0.35 0.33 0.5]" 
+	"$rimlight" "1"
+	"$rimlightexponent" "28"	
+	"$rimlightboost" "0.2"
+	"$envmap"	"env_cubemap"
+	"$envmaptint"	"[.05 .05 .05]"
+}

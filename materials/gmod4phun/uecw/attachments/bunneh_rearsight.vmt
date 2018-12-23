@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "gmod4phun/uecw/attachments/bunneh_rearsight_d"
+	$selfillum 1
+	$selfillummask "gmod4phun/uecw/attachments/bunneh_rearsight_selfillum"
+}

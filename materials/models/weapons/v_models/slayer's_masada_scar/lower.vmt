@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\SlaYeR's_Masada_Scar\Lower"
+	"$bumpmap" "models\weapons\v_models\SlaYeR's_Masada_Scar\Lower_norm"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" 		"1"
+	"$phongexponent" 	"40"
+	"$phongboost" "0.75"
+	"$phongfresnelranges" "[1 3 6]"
+	"$phongexponenttexture" "models\weapons\SlaYeR's_Masada_Scar\Lower_spec"
+	"$phongalbedotint" "1"
+	"$nocull" "1"
+}

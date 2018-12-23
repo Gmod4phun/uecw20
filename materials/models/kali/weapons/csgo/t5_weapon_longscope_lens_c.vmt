@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "cw2/gui/lense"
+	"$translucent" 	"0"
+	"$model" 	"1"
+}

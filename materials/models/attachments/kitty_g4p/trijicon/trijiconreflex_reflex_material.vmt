@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"models/attachments/kitty_g4p/trijicon/TrijiconReflex_Reflex_Material"
+	"$bumpmap"				"models/attachments/kitty_g4p/trijicon/TrijiconReflex_Reflex_Material_Normal"
+	"$phong" 		"1"
+	"$phongexponent" 	"10"
+	"$phongboost" "0.05"
+	"$phongfresnelranges" "[1 3 6]"
+}

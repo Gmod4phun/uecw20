@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models\kali\weapons\csgo\w_sup_02_dm"
+	"$bumpmap" 		"models\kali\weapons\csgo\w_sup_02_nm"
+
+	"$nocull" "0"
+	"$model" "1"
+
+	"$ambientocclusion" "1"
+
+	"$blendtintbybasealpha" "1"
+
+	"$phong" "1"
+	"$phongboost" "0.35"
+	"$phongexponent" "2.5"
+	"$phongfresnelranges" "[ 0.5 0.75 1.5 ]"
+	"$phongalbedotint" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "25"
+	"$rimlightboost" "0.15"
+}

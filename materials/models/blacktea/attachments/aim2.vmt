@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\blacktea\attachments\aim2"
+	"$translucent" "1"
+	"$alpha" "0"
+}

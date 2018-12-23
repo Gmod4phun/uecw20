@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\WangXm8_AUG\EOT"
+                "$translucent" "1"
+                "$additive" "1"
+                "$selfillum" "1"
+}

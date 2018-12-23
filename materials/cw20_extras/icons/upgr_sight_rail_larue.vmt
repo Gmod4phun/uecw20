@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "cw20_extras/icons/upgr_sight_rail_larue"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
